@@ -1,1 +1,2 @@
-This is my readme file.
+# Gitti
+*This is a simple git repo for teaching purposes.*
